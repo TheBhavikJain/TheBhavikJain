@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/thebhavikjainE/">
+  <a href="https://www.linkedin.com/in/thebhavikjain/">
     <img src="https://img.shields.io/badge/LinkedIn-Bhavik%20Jain-0A66C2?logo=linkedin&logoColor=white" />
   </a>
 </p>
