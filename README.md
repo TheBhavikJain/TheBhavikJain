@@ -36,7 +36,7 @@
 
 ---
 
-### 🧰 Tech stack (quick scan)
+### 🧰 Tech stack
 **Languages:** Kotlin, Java, Python, TypeScript/JavaScript, SQL, C/C++, Bash  
 **Frameworks:** Spring Boot, React, Next.js, Express.js, FastAPI  
 **ML/Data:** pandas, NumPy, scikit-learn, PyTorch, TensorFlow  
